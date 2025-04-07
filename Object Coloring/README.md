@@ -12,3 +12,4 @@ Layerwise Image Vectorization:
 
 
 
+![Combined Contours](https://github.com/user-attachments/assets/27acbcf6-7319-447c-9e5d-fb12138deb4d)
