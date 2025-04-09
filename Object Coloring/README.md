@@ -9,6 +9,9 @@ Layerwise Image Vectorization:
 
 ## Color Quantization
 
+Original (33598):
+![original_shinji](https://github.com/user-attachments/assets/3e44f74b-3594-430c-a2de-9a87f0cedec3)
+
 K-mean (8):
 ![kmean_shinji](https://github.com/user-attachments/assets/55d264dd-1e92-4915-8d80-9220d29b3634)
 ![kmeans_palette](https://github.com/user-attachments/assets/df858103-85ad-4f44-bd9c-0001690adab3)
