@@ -8,7 +8,8 @@
 
 [google docs (view only)](https://docs.google.com/document/d/1s_7PBN98MR_9QOTnMm6KD0d7QEiBQmDxHr9P2czCZdw/edit?usp=sharing)
 
-[Example of workflow we automate](https://www.youtube.com/watch?v=BQ3fR8liIl8)
+[Example video of workflow we automate](https://www.youtube.com/watch?v=R0B1R1PHfTs)
+[Another example video](https://www.youtube.com/watch?v=BQ3fR8liIl8)
 
 ## To-Do List
 
