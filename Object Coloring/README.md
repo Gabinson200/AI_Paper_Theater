@@ -7,7 +7,7 @@ Layerwise Image Vectorization:
 
 ## Implementation:
 
-## Color Quantization
+## Color Quantization (OLD)
 
 Original (33598):
 ![original_shinji](https://github.com/user-attachments/assets/3e44f74b-3594-430c-a2de-9a87f0cedec3)
@@ -23,6 +23,19 @@ Mean Shift (11):
 Combined (8):
 ![combined_shinji](https://github.com/user-attachments/assets/d2d46e7a-8219-45e9-96d8-e91f7cdcf381)
 ![combined_palette](https://github.com/user-attachments/assets/b9285fac-251a-4188-b5e2-3845cf408f31)
+
+
+## NEW:
+![image](https://github.com/user-attachments/assets/ef304f28-4526-4820-bf4a-65227bbd91dc)
+
+![image](https://github.com/user-attachments/assets/21b91098-feb3-4a1c-882e-2000dee6f02b)
+
+![image](https://github.com/user-attachments/assets/9e1acbf5-16e3-43dd-ab49-018349eb9e9e)
+
+![image](https://github.com/user-attachments/assets/a291e0d0-d97a-44f6-95a2-e9e2aae23a44)
+
+![image](https://github.com/user-attachments/assets/001bd216-9955-49c5-8a4d-3926a3878c09)
+
 
 ## Results:
 
